@@ -1,0 +1,3 @@
+Numar: 1069
+Suma Cifrelor: 16
+Oglinditul: 9601
