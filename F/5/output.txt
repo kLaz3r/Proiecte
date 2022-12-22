@@ -1,2 +1,0 @@
-23 gasit la indexul 4 
-Valoarea minima din vector este: 23 

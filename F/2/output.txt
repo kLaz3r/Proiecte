@@ -1,2 +1,0 @@
-Numar: 11
-Prim: 1
