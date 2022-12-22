@@ -1,1 +1,1 @@
-# Computer Science College Projects is C/C++
+# Computer Science College Projects in C/C++
