@@ -18,7 +18,7 @@ int main()
     s = sqrt(p * (p - a) * (p - b) * (p - c));
     if (s != s)
     {
-        cout << "Acest triunghi nu exista.";
+        cout << "Acest triunghi nu exista." << endl;
         return 0;
     }
 
