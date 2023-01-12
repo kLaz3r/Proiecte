@@ -3,6 +3,7 @@
         "*.module": "php",
         "*.jbeam": "jsonc",
         "cmath": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "iostream": "cpp"
     }
 }

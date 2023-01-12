@@ -1,3 +1,5 @@
+// 21. Determinati daca elementele unui vector formeaza sau nu o progresie geometrica
+
 #include <iostream>
 
 using namespace std;
