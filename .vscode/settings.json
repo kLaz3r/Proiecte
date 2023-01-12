@@ -2,6 +2,7 @@
     "files.associations": {
         "*.module": "php",
         "*.jbeam": "jsonc",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "ostream": "cpp"
     }
 }

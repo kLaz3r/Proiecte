@@ -16,7 +16,6 @@ int main()
         cin >> k;
         if (k <= minim)
         {
-            cout << "cacat" << endl;
             minim = k;
         }
     }
